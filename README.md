@@ -1,7 +1,3 @@
-こんなフロント開発テンプレートを作成しました。
-
-https://n-next-starter-template.vercel.app/
-
 ### API
 
 ---
